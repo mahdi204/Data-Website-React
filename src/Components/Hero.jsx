@@ -24,7 +24,7 @@ const Hero = () => {
             loop
           />
         </div>
-        <p className="md: text-2xl text-xl font-bold text-gray-500">
+        <p className="md:text-2xl text-xl font-bold text-gray-500">
           Monitor your data analytics to increase revenue for BTB, BTC, & SASS
           platform.
         </p>
